@@ -1,5 +1,11 @@
 # 🏗️ Taichi Cloth Simulation
 
+![Clothe Simulation](video/clothes.mp4)
+
+
+![Clothe Simulation](video/clothes.gif)
+
+
 ## 📌 프로젝트 개요
 이 프로젝트는 **Taichi** 프레임워크를 사용하여 **천이 공 위에 떨어지는 물리 시뮬레이션**을 구현한 것입니다.  
 천(Cloth)은 **질량-스프링 시스템(Mass-Spring System)** 으로 모델링되었으며,  
